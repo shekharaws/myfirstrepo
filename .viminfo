@@ -11,10 +11,14 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+:wq
+|2,0,1660364701,,"wq"
+:wq!
+|2,0,1660045807,,"wq!"
+:q!
+|2,0,1660045755,,"q!"
 :q
 |2,0,1659946554,,"q"
-:wq
-|2,0,1659253505,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -33,214 +37,254 @@
 |3,0,36,0,1,0,1659250901,"m"
 
 # File marks:
-'0  1  0  ~/directory/naresh
-|4,48,1,0,1659946554,"~/directory/naresh"
-'1  1  0  ~/.ssh/id_rsa.pub
-|4,49,1,0,1659941460,"~/.ssh/id_rsa.pub"
-'2  1  0  ~/.ssh/id_rsa
-|4,50,1,0,1659941242,"~/.ssh/id_rsa"
-'3  1  12  ~/git_workspace/shekhar
-|4,51,1,12,1659253505,"~/git_workspace/shekhar"
-'4  1  6  ~/myfirstwork/shekhar
-|4,52,1,6,1659251994,"~/myfirstwork/shekhar"
-'5  1  6  ~/git_myfile/myfirstwork/myfirstwork
-|4,53,1,6,1659251143,"~/git_myfile/myfirstwork/myfirstwork"
-'6  1  17  ~/git_myfile/myfirstwork/myfirstwork
-|4,54,1,17,1659250984,"~/git_myfile/myfirstwork/myfirstwork"
+'0  1  0  ~/mysecond-repo/Hyderabad/charminar
+|4,48,1,0,1660364701,"~/mysecond-repo/Hyderabad/charminar"
+'1  1  0  ~/myfirstrepo/Hyderabad
+|4,49,1,0,1660364177,"~/myfirstrepo/Hyderabad"
+'2  3  11  ~/mysecond-repo/text.text
+|4,50,3,11,1660045807,"~/mysecond-repo/text.text"
+'3  4  0  ~/mysecond-repo/text.text
+|4,51,4,0,1660045779,"~/mysecond-repo/text.text"
+'4  2  0  ~/mysecond-repo/intro
+|4,52,2,0,1660045755,"~/mysecond-repo/intro"
+'5  2  0  ~/mysecond-repo/intro
+|4,53,2,0,1660045719,"~/mysecond-repo/intro"
+'6  1  0  ~/directory/naresh
+|4,54,1,0,1659946554,"~/directory/naresh"
+'7  1  0  ~/.ssh/id_rsa.pub
+|4,55,1,0,1659941460,"~/.ssh/id_rsa.pub"
+'8  1  0  ~/.ssh/id_rsa
+|4,56,1,0,1659941242,"~/.ssh/id_rsa"
+'9  1  12  ~/git_workspace/shekhar
+|4,57,1,12,1659253505,"~/git_workspace/shekhar"
 
 # Jumplist (newest first):
+-'  1  0  ~/mysecond-repo/Hyderabad/charminar
+|4,39,1,0,1660364701,"~/mysecond-repo/Hyderabad/charminar"
+-'  1  0  ~/myfirstrepo/Hyderabad
+|4,39,1,0,1660364177,"~/myfirstrepo/Hyderabad"
+-'  1  0  ~/myfirstrepo/Hyderabad
+|4,39,1,0,1660364177,"~/myfirstrepo/Hyderabad"
+-'  3  11  ~/mysecond-repo/text.text
+|4,39,3,11,1660045807,"~/mysecond-repo/text.text"
+-'  3  11  ~/mysecond-repo/text.text
+|4,39,3,11,1660045807,"~/mysecond-repo/text.text"
+-'  3  11  ~/mysecond-repo/text.text
+|4,39,3,11,1660045807,"~/mysecond-repo/text.text"
+-'  3  11  ~/mysecond-repo/text.text
+|4,39,3,11,1660045807,"~/mysecond-repo/text.text"
+-'  4  0  ~/mysecond-repo/text.text
+|4,39,4,0,1660045779,"~/mysecond-repo/text.text"
+-'  4  0  ~/mysecond-repo/text.text
+|4,39,4,0,1660045779,"~/mysecond-repo/text.text"
+-'  4  0  ~/mysecond-repo/text.text
+|4,39,4,0,1660045779,"~/mysecond-repo/text.text"
+-'  4  0  ~/mysecond-repo/text.text
+|4,39,4,0,1660045779,"~/mysecond-repo/text.text"
+-'  1  0  ~/mysecond-repo/text.text
+|4,39,1,0,1660045768,"~/mysecond-repo/text.text"
+-'  1  0  ~/mysecond-repo/text.text
+|4,39,1,0,1660045768,"~/mysecond-repo/text.text"
+-'  1  0  ~/mysecond-repo/text.text
+|4,39,1,0,1660045768,"~/mysecond-repo/text.text"
+-'  1  0  ~/mysecond-repo/text.text
+|4,39,1,0,1660045768,"~/mysecond-repo/text.text"
+-'  1  0  ~/mysecond-repo/text.text
+|4,39,1,0,1660045768,"~/mysecond-repo/text.text"
+-'  1  0  ~/mysecond-repo/text.text
+|4,39,1,0,1660045768,"~/mysecond-repo/text.text"
+-'  1  0  ~/mysecond-repo/text.text
+|4,39,1,0,1660045768,"~/mysecond-repo/text.text"
+-'  1  0  ~/mysecond-repo/text.text
+|4,39,1,0,1660045768,"~/mysecond-repo/text.text"
+-'  2  0  ~/mysecond-repo/intro
+|4,39,2,0,1660045755,"~/mysecond-repo/intro"
+-'  2  0  ~/mysecond-repo/intro
+|4,39,2,0,1660045755,"~/mysecond-repo/intro"
+-'  2  0  ~/mysecond-repo/intro
+|4,39,2,0,1660045755,"~/mysecond-repo/intro"
+-'  2  0  ~/mysecond-repo/intro
+|4,39,2,0,1660045755,"~/mysecond-repo/intro"
+-'  2  0  ~/mysecond-repo/intro
+|4,39,2,0,1660045755,"~/mysecond-repo/intro"
+-'  2  0  ~/mysecond-repo/intro
+|4,39,2,0,1660045755,"~/mysecond-repo/intro"
+-'  2  0  ~/mysecond-repo/intro
+|4,39,2,0,1660045755,"~/mysecond-repo/intro"
+-'  2  0  ~/mysecond-repo/intro
+|4,39,2,0,1660045755,"~/mysecond-repo/intro"
+-'  2  0  ~/mysecond-repo/intro
+|4,39,2,0,1660045755,"~/mysecond-repo/intro"
+-'  2  0  ~/mysecond-repo/intro
+|4,39,2,0,1660045755,"~/mysecond-repo/intro"
+-'  2  0  ~/mysecond-repo/intro
+|4,39,2,0,1660045755,"~/mysecond-repo/intro"
+-'  2  0  ~/mysecond-repo/intro
+|4,39,2,0,1660045755,"~/mysecond-repo/intro"
+-'  2  0  ~/mysecond-repo/intro
+|4,39,2,0,1660045755,"~/mysecond-repo/intro"
+-'  2  0  ~/mysecond-repo/intro
+|4,39,2,0,1660045755,"~/mysecond-repo/intro"
+-'  2  0  ~/mysecond-repo/intro
+|4,39,2,0,1660045755,"~/mysecond-repo/intro"
+-'  2  0  ~/mysecond-repo/intro
+|4,39,2,0,1660045755,"~/mysecond-repo/intro"
+-'  2  0  ~/mysecond-repo/intro
+|4,39,2,0,1660045719,"~/mysecond-repo/intro"
+-'  2  0  ~/mysecond-repo/intro
+|4,39,2,0,1660045719,"~/mysecond-repo/intro"
+-'  2  0  ~/mysecond-repo/intro
+|4,39,2,0,1660045719,"~/mysecond-repo/intro"
+-'  2  0  ~/mysecond-repo/intro
+|4,39,2,0,1660045719,"~/mysecond-repo/intro"
+-'  2  0  ~/mysecond-repo/intro
+|4,39,2,0,1660045719,"~/mysecond-repo/intro"
+-'  2  0  ~/mysecond-repo/intro
+|4,39,2,0,1660045719,"~/mysecond-repo/intro"
+-'  2  0  ~/mysecond-repo/intro
+|4,39,2,0,1660045719,"~/mysecond-repo/intro"
+-'  2  0  ~/mysecond-repo/intro
+|4,39,2,0,1660045719,"~/mysecond-repo/intro"
+-'  2  0  ~/mysecond-repo/intro
+|4,39,2,0,1660045719,"~/mysecond-repo/intro"
+-'  2  0  ~/mysecond-repo/intro
+|4,39,2,0,1660045719,"~/mysecond-repo/intro"
+-'  2  0  ~/mysecond-repo/intro
+|4,39,2,0,1660045719,"~/mysecond-repo/intro"
+-'  2  0  ~/mysecond-repo/intro
+|4,39,2,0,1660045719,"~/mysecond-repo/intro"
+-'  2  0  ~/mysecond-repo/intro
+|4,39,2,0,1660045719,"~/mysecond-repo/intro"
+-'  2  0  ~/mysecond-repo/intro
+|4,39,2,0,1660045719,"~/mysecond-repo/intro"
+-'  2  0  ~/mysecond-repo/intro
+|4,39,2,0,1660045719,"~/mysecond-repo/intro"
+-'  2  0  ~/mysecond-repo/intro
+|4,39,2,0,1660045719,"~/mysecond-repo/intro"
+-'  1  0  ~/mysecond-repo/intro
+|4,39,1,0,1660045701,"~/mysecond-repo/intro"
+-'  1  0  ~/mysecond-repo/intro
+|4,39,1,0,1660045701,"~/mysecond-repo/intro"
+-'  1  0  ~/mysecond-repo/intro
+|4,39,1,0,1660045701,"~/mysecond-repo/intro"
+-'  1  0  ~/mysecond-repo/intro
+|4,39,1,0,1660045701,"~/mysecond-repo/intro"
+-'  1  0  ~/mysecond-repo/intro
+|4,39,1,0,1660045701,"~/mysecond-repo/intro"
+-'  1  0  ~/mysecond-repo/intro
+|4,39,1,0,1660045701,"~/mysecond-repo/intro"
+-'  1  0  ~/mysecond-repo/intro
+|4,39,1,0,1660045701,"~/mysecond-repo/intro"
+-'  1  0  ~/mysecond-repo/intro
+|4,39,1,0,1660045701,"~/mysecond-repo/intro"
+-'  1  0  ~/mysecond-repo/intro
+|4,39,1,0,1660045701,"~/mysecond-repo/intro"
+-'  1  0  ~/mysecond-repo/intro
+|4,39,1,0,1660045701,"~/mysecond-repo/intro"
+-'  1  0  ~/mysecond-repo/intro
+|4,39,1,0,1660045701,"~/mysecond-repo/intro"
+-'  1  0  ~/mysecond-repo/intro
+|4,39,1,0,1660045701,"~/mysecond-repo/intro"
+-'  1  0  ~/mysecond-repo/intro
+|4,39,1,0,1660045701,"~/mysecond-repo/intro"
+-'  1  0  ~/mysecond-repo/intro
+|4,39,1,0,1660045701,"~/mysecond-repo/intro"
+-'  1  0  ~/mysecond-repo/intro
+|4,39,1,0,1660045701,"~/mysecond-repo/intro"
+-'  1  0  ~/mysecond-repo/intro
+|4,39,1,0,1660045701,"~/mysecond-repo/intro"
+-'  1  0  ~/mysecond-repo/intro
+|4,39,1,0,1660045701,"~/mysecond-repo/intro"
+-'  1  0  ~/mysecond-repo/intro
+|4,39,1,0,1660045701,"~/mysecond-repo/intro"
+-'  1  0  ~/mysecond-repo/intro
+|4,39,1,0,1660045701,"~/mysecond-repo/intro"
+-'  1  0  ~/mysecond-repo/intro
+|4,39,1,0,1660045701,"~/mysecond-repo/intro"
+-'  1  0  ~/mysecond-repo/intro
+|4,39,1,0,1660045701,"~/mysecond-repo/intro"
+-'  1  0  ~/mysecond-repo/intro
+|4,39,1,0,1660045701,"~/mysecond-repo/intro"
+-'  1  0  ~/mysecond-repo/intro
+|4,39,1,0,1660045701,"~/mysecond-repo/intro"
+-'  1  0  ~/mysecond-repo/intro
+|4,39,1,0,1660045701,"~/mysecond-repo/intro"
+-'  1  0  ~/mysecond-repo/intro
+|4,39,1,0,1660045701,"~/mysecond-repo/intro"
+-'  1  0  ~/mysecond-repo/intro
+|4,39,1,0,1660045701,"~/mysecond-repo/intro"
+-'  1  0  ~/mysecond-repo/intro
+|4,39,1,0,1660045701,"~/mysecond-repo/intro"
+-'  1  0  ~/mysecond-repo/intro
+|4,39,1,0,1660045701,"~/mysecond-repo/intro"
+-'  1  0  ~/mysecond-repo/intro
+|4,39,1,0,1660045701,"~/mysecond-repo/intro"
+-'  1  0  ~/mysecond-repo/intro
+|4,39,1,0,1660045701,"~/mysecond-repo/intro"
+-'  1  0  ~/mysecond-repo/intro
+|4,39,1,0,1660045701,"~/mysecond-repo/intro"
+-'  1  0  ~/mysecond-repo/intro
+|4,39,1,0,1660045701,"~/mysecond-repo/intro"
 -'  1  0  ~/directory/naresh
 |4,39,1,0,1659946554,"~/directory/naresh"
--'  1  0  ~/.ssh/id_rsa.pub
-|4,39,1,0,1659941460,"~/.ssh/id_rsa.pub"
--'  1  0  ~/.ssh/id_rsa.pub
-|4,39,1,0,1659941460,"~/.ssh/id_rsa.pub"
--'  1  0  ~/.ssh/id_rsa
-|4,39,1,0,1659941242,"~/.ssh/id_rsa"
--'  1  0  ~/.ssh/id_rsa
-|4,39,1,0,1659941242,"~/.ssh/id_rsa"
--'  1  0  ~/.ssh/id_rsa
-|4,39,1,0,1659941242,"~/.ssh/id_rsa"
--'  1  0  ~/.ssh/id_rsa
-|4,39,1,0,1659941242,"~/.ssh/id_rsa"
--'  1  12  ~/git_workspace/shekhar
-|4,39,1,12,1659253505,"~/git_workspace/shekhar"
--'  1  12  ~/git_workspace/shekhar
-|4,39,1,12,1659253505,"~/git_workspace/shekhar"
--'  1  12  ~/git_workspace/shekhar
-|4,39,1,12,1659253505,"~/git_workspace/shekhar"
--'  1  12  ~/git_workspace/shekhar
-|4,39,1,12,1659253505,"~/git_workspace/shekhar"
--'  1  12  ~/git_workspace/shekhar
-|4,39,1,12,1659253505,"~/git_workspace/shekhar"
--'  1  12  ~/git_workspace/shekhar
-|4,39,1,12,1659253505,"~/git_workspace/shekhar"
--'  1  12  ~/git_workspace/shekhar
-|4,39,1,12,1659253505,"~/git_workspace/shekhar"
--'  1  12  ~/git_workspace/shekhar
-|4,39,1,12,1659253505,"~/git_workspace/shekhar"
--'  1  6  ~/myfirstwork/shekhar
-|4,39,1,6,1659251994,"~/myfirstwork/shekhar"
--'  1  6  ~/myfirstwork/shekhar
-|4,39,1,6,1659251994,"~/myfirstwork/shekhar"
--'  1  6  ~/myfirstwork/shekhar
-|4,39,1,6,1659251994,"~/myfirstwork/shekhar"
--'  1  6  ~/myfirstwork/shekhar
-|4,39,1,6,1659251994,"~/myfirstwork/shekhar"
--'  1  6  ~/myfirstwork/shekhar
-|4,39,1,6,1659251994,"~/myfirstwork/shekhar"
--'  1  6  ~/myfirstwork/shekhar
-|4,39,1,6,1659251994,"~/myfirstwork/shekhar"
--'  1  6  ~/myfirstwork/shekhar
-|4,39,1,6,1659251994,"~/myfirstwork/shekhar"
--'  1  6  ~/myfirstwork/shekhar
-|4,39,1,6,1659251994,"~/myfirstwork/shekhar"
--'  1  6  ~/myfirstwork/shekhar
-|4,39,1,6,1659251994,"~/myfirstwork/shekhar"
--'  1  6  ~/myfirstwork/shekhar
-|4,39,1,6,1659251994,"~/myfirstwork/shekhar"
--'  1  6  ~/myfirstwork/shekhar
-|4,39,1,6,1659251994,"~/myfirstwork/shekhar"
--'  1  6  ~/myfirstwork/shekhar
-|4,39,1,6,1659251994,"~/myfirstwork/shekhar"
--'  1  6  ~/myfirstwork/shekhar
-|4,39,1,6,1659251994,"~/myfirstwork/shekhar"
--'  1  6  ~/myfirstwork/shekhar
-|4,39,1,6,1659251994,"~/myfirstwork/shekhar"
--'  1  6  ~/myfirstwork/shekhar
-|4,39,1,6,1659251994,"~/myfirstwork/shekhar"
--'  1  6  ~/myfirstwork/shekhar
-|4,39,1,6,1659251994,"~/myfirstwork/shekhar"
--'  1  6  ~/git_myfile/myfirstwork/myfirstwork
-|4,39,1,6,1659251143,"~/git_myfile/myfirstwork/myfirstwork"
--'  1  6  ~/git_myfile/myfirstwork/myfirstwork
-|4,39,1,6,1659251143,"~/git_myfile/myfirstwork/myfirstwork"
--'  1  6  ~/git_myfile/myfirstwork/myfirstwork
-|4,39,1,6,1659251143,"~/git_myfile/myfirstwork/myfirstwork"
--'  1  6  ~/git_myfile/myfirstwork/myfirstwork
-|4,39,1,6,1659251143,"~/git_myfile/myfirstwork/myfirstwork"
--'  1  6  ~/git_myfile/myfirstwork/myfirstwork
-|4,39,1,6,1659251143,"~/git_myfile/myfirstwork/myfirstwork"
--'  1  6  ~/git_myfile/myfirstwork/myfirstwork
-|4,39,1,6,1659251143,"~/git_myfile/myfirstwork/myfirstwork"
--'  1  6  ~/git_myfile/myfirstwork/myfirstwork
-|4,39,1,6,1659251143,"~/git_myfile/myfirstwork/myfirstwork"
--'  1  6  ~/git_myfile/myfirstwork/myfirstwork
-|4,39,1,6,1659251143,"~/git_myfile/myfirstwork/myfirstwork"
--'  1  6  ~/git_myfile/myfirstwork/myfirstwork
-|4,39,1,6,1659251143,"~/git_myfile/myfirstwork/myfirstwork"
--'  1  6  ~/git_myfile/myfirstwork/myfirstwork
-|4,39,1,6,1659251143,"~/git_myfile/myfirstwork/myfirstwork"
--'  1  6  ~/git_myfile/myfirstwork/myfirstwork
-|4,39,1,6,1659251143,"~/git_myfile/myfirstwork/myfirstwork"
--'  1  6  ~/git_myfile/myfirstwork/myfirstwork
-|4,39,1,6,1659251143,"~/git_myfile/myfirstwork/myfirstwork"
--'  1  6  ~/git_myfile/myfirstwork/myfirstwork
-|4,39,1,6,1659251143,"~/git_myfile/myfirstwork/myfirstwork"
--'  1  6  ~/git_myfile/myfirstwork/myfirstwork
-|4,39,1,6,1659251143,"~/git_myfile/myfirstwork/myfirstwork"
--'  1  6  ~/git_myfile/myfirstwork/myfirstwork
-|4,39,1,6,1659251143,"~/git_myfile/myfirstwork/myfirstwork"
--'  1  6  ~/git_myfile/myfirstwork/myfirstwork
-|4,39,1,6,1659251143,"~/git_myfile/myfirstwork/myfirstwork"
--'  1  6  ~/git_myfile/myfirstwork/myfirstwork
-|4,39,1,6,1659251143,"~/git_myfile/myfirstwork/myfirstwork"
--'  1  6  ~/git_myfile/myfirstwork/myfirstwork
-|4,39,1,6,1659251143,"~/git_myfile/myfirstwork/myfirstwork"
--'  1  6  ~/git_myfile/myfirstwork/myfirstwork
-|4,39,1,6,1659251143,"~/git_myfile/myfirstwork/myfirstwork"
--'  1  6  ~/git_myfile/myfirstwork/myfirstwork
-|4,39,1,6,1659251143,"~/git_myfile/myfirstwork/myfirstwork"
--'  1  6  ~/git_myfile/myfirstwork/myfirstwork
-|4,39,1,6,1659251143,"~/git_myfile/myfirstwork/myfirstwork"
--'  1  6  ~/git_myfile/myfirstwork/myfirstwork
-|4,39,1,6,1659251143,"~/git_myfile/myfirstwork/myfirstwork"
--'  1  6  ~/git_myfile/myfirstwork/myfirstwork
-|4,39,1,6,1659251143,"~/git_myfile/myfirstwork/myfirstwork"
--'  1  6  ~/git_myfile/myfirstwork/myfirstwork
-|4,39,1,6,1659251143,"~/git_myfile/myfirstwork/myfirstwork"
--'  1  6  ~/git_myfile/myfirstwork/myfirstwork
-|4,39,1,6,1659251143,"~/git_myfile/myfirstwork/myfirstwork"
--'  1  6  ~/git_myfile/myfirstwork/myfirstwork
-|4,39,1,6,1659251143,"~/git_myfile/myfirstwork/myfirstwork"
--'  1  6  ~/git_myfile/myfirstwork/myfirstwork
-|4,39,1,6,1659251143,"~/git_myfile/myfirstwork/myfirstwork"
--'  1  6  ~/git_myfile/myfirstwork/myfirstwork
-|4,39,1,6,1659251143,"~/git_myfile/myfirstwork/myfirstwork"
--'  1  6  ~/git_myfile/myfirstwork/myfirstwork
-|4,39,1,6,1659251143,"~/git_myfile/myfirstwork/myfirstwork"
--'  1  6  ~/git_myfile/myfirstwork/myfirstwork
-|4,39,1,6,1659251143,"~/git_myfile/myfirstwork/myfirstwork"
--'  1  6  ~/git_myfile/myfirstwork/myfirstwork
-|4,39,1,6,1659251143,"~/git_myfile/myfirstwork/myfirstwork"
--'  1  6  ~/git_myfile/myfirstwork/myfirstwork
-|4,39,1,6,1659251143,"~/git_myfile/myfirstwork/myfirstwork"
--'  1  17  ~/git_myfile/myfirstwork/myfirstwork
-|4,39,1,17,1659250984,"~/git_myfile/myfirstwork/myfirstwork"
--'  1  17  ~/git_myfile/myfirstwork/myfirstwork
-|4,39,1,17,1659250984,"~/git_myfile/myfirstwork/myfirstwork"
--'  1  17  ~/git_myfile/myfirstwork/myfirstwork
-|4,39,1,17,1659250984,"~/git_myfile/myfirstwork/myfirstwork"
--'  1  17  ~/git_myfile/myfirstwork/myfirstwork
-|4,39,1,17,1659250984,"~/git_myfile/myfirstwork/myfirstwork"
--'  1  17  ~/git_myfile/myfirstwork/myfirstwork
-|4,39,1,17,1659250984,"~/git_myfile/myfirstwork/myfirstwork"
--'  1  17  ~/git_myfile/myfirstwork/myfirstwork
-|4,39,1,17,1659250984,"~/git_myfile/myfirstwork/myfirstwork"
--'  1  17  ~/git_myfile/myfirstwork/myfirstwork
-|4,39,1,17,1659250984,"~/git_myfile/myfirstwork/myfirstwork"
--'  1  17  ~/git_myfile/myfirstwork/myfirstwork
-|4,39,1,17,1659250984,"~/git_myfile/myfirstwork/myfirstwork"
--'  1  17  ~/git_myfile/myfirstwork/myfirstwork
-|4,39,1,17,1659250984,"~/git_myfile/myfirstwork/myfirstwork"
--'  1  17  ~/git_myfile/myfirstwork/myfirstwork
-|4,39,1,17,1659250984,"~/git_myfile/myfirstwork/myfirstwork"
--'  1  17  ~/git_myfile/myfirstwork/myfirstwork
-|4,39,1,17,1659250984,"~/git_myfile/myfirstwork/myfirstwork"
--'  1  17  ~/git_myfile/myfirstwork/myfirstwork
-|4,39,1,17,1659250984,"~/git_myfile/myfirstwork/myfirstwork"
--'  1  17  ~/git_myfile/myfirstwork/myfirstwork
-|4,39,1,17,1659250984,"~/git_myfile/myfirstwork/myfirstwork"
--'  1  17  ~/git_myfile/myfirstwork/myfirstwork
-|4,39,1,17,1659250984,"~/git_myfile/myfirstwork/myfirstwork"
--'  1  17  ~/git_myfile/myfirstwork/myfirstwork
-|4,39,1,17,1659250984,"~/git_myfile/myfirstwork/myfirstwork"
--'  1  17  ~/git_myfile/myfirstwork/myfirstwork
-|4,39,1,17,1659250984,"~/git_myfile/myfirstwork/myfirstwork"
--'  1  17  ~/git_myfile/myfirstwork/myfirstwork
-|4,39,1,17,1659250984,"~/git_myfile/myfirstwork/myfirstwork"
--'  1  17  ~/git_myfile/myfirstwork/myfirstwork
-|4,39,1,17,1659250984,"~/git_myfile/myfirstwork/myfirstwork"
--'  1  17  ~/git_myfile/myfirstwork/myfirstwork
-|4,39,1,17,1659250984,"~/git_myfile/myfirstwork/myfirstwork"
--'  1  17  ~/git_myfile/myfirstwork/myfirstwork
-|4,39,1,17,1659250984,"~/git_myfile/myfirstwork/myfirstwork"
--'  1  17  ~/git_myfile/myfirstwork/myfirstwork
-|4,39,1,17,1659250984,"~/git_myfile/myfirstwork/myfirstwork"
--'  1  17  ~/git_myfile/myfirstwork/myfirstwork
-|4,39,1,17,1659250984,"~/git_myfile/myfirstwork/myfirstwork"
--'  1  17  ~/git_myfile/myfirstwork/myfirstwork
-|4,39,1,17,1659250984,"~/git_myfile/myfirstwork/myfirstwork"
--'  1  17  ~/git_myfile/myfirstwork/myfirstwork
-|4,39,1,17,1659250984,"~/git_myfile/myfirstwork/myfirstwork"
--'  1  17  ~/git_myfile/myfirstwork/myfirstwork
-|4,39,1,17,1659250984,"~/git_myfile/myfirstwork/myfirstwork"
--'  1  17  ~/git_myfile/myfirstwork/myfirstwork
-|4,39,1,17,1659250984,"~/git_myfile/myfirstwork/myfirstwork"
--'  1  17  ~/git_myfile/myfirstwork/myfirstwork
-|4,39,1,17,1659250984,"~/git_myfile/myfirstwork/myfirstwork"
--'  1  17  ~/git_myfile/myfirstwork/myfirstwork
-|4,39,1,17,1659250984,"~/git_myfile/myfirstwork/myfirstwork"
--'  1  17  ~/git_myfile/myfirstwork/myfirstwork
-|4,39,1,17,1659250984,"~/git_myfile/myfirstwork/myfirstwork"
--'  1  17  ~/git_myfile/myfirstwork/myfirstwork
-|4,39,1,17,1659250984,"~/git_myfile/myfirstwork/myfirstwork"
--'  1  17  ~/git_myfile/myfirstwork/myfirstwork
-|4,39,1,17,1659250984,"~/git_myfile/myfirstwork/myfirstwork"
--'  1  17  ~/git_myfile/myfirstwork/myfirstwork
-|4,39,1,17,1659250984,"~/git_myfile/myfirstwork/myfirstwork"
+-'  1  0  ~/directory/naresh
+|4,39,1,0,1659946554,"~/directory/naresh"
+-'  1  0  ~/directory/naresh
+|4,39,1,0,1659946554,"~/directory/naresh"
+-'  1  0  ~/directory/naresh
+|4,39,1,0,1659946554,"~/directory/naresh"
+-'  1  0  ~/directory/naresh
+|4,39,1,0,1659946554,"~/directory/naresh"
+-'  1  0  ~/directory/naresh
+|4,39,1,0,1659946554,"~/directory/naresh"
+-'  1  0  ~/directory/naresh
+|4,39,1,0,1659946554,"~/directory/naresh"
+-'  1  0  ~/directory/naresh
+|4,39,1,0,1659946554,"~/directory/naresh"
+-'  1  0  ~/directory/naresh
+|4,39,1,0,1659946554,"~/directory/naresh"
+-'  1  0  ~/directory/naresh
+|4,39,1,0,1659946554,"~/directory/naresh"
+-'  1  0  ~/directory/naresh
+|4,39,1,0,1659946554,"~/directory/naresh"
+-'  1  0  ~/directory/naresh
+|4,39,1,0,1659946554,"~/directory/naresh"
+-'  1  0  ~/directory/naresh
+|4,39,1,0,1659946554,"~/directory/naresh"
+-'  1  0  ~/directory/naresh
+|4,39,1,0,1659946554,"~/directory/naresh"
+-'  1  0  ~/directory/naresh
+|4,39,1,0,1659946554,"~/directory/naresh"
+-'  1  0  ~/directory/naresh
+|4,39,1,0,1659946554,"~/directory/naresh"
+-'  1  0  ~/directory/naresh
+|4,39,1,0,1659946554,"~/directory/naresh"
 
 # History of marks within files (newest to oldest):
+
+> ~/mysecond-repo/Hyderabad/charminar
+	*	1660364693	0
+	"	1	0
+	^	1	0
+
+> ~/myfirstrepo/Hyderabad
+	*	1660364168	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	0
+
+> ~/mysecond-repo/text.text
+	*	1660045805	0
+	"	3	11
+	^	3	12
+	.	4	0
+	+	3	12
+	+	4	0
+
+> ~/mysecond-repo/intro
+	*	1660045722	0
+	"	2	0
 
 > ~/directory/naresh
 	*	1659946550	0

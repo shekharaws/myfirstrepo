@@ -585,3 +585,56 @@ mvn -version
 sudo apt install maven
 mvn -version
 ll
+git -version
+git --version
+ll
+git status
+git commit -am "changes"
+git status
+git commit -m "changes"
+git push
+git status
+git add .ssh
+git commit -m "changes"
+git add myfirstrepo
+git commit -am "changes"
+git changes
+git status
+git commit -am ".ssh/myfirstrepo"
+java --version
+readlink -f $(which java)
+mvn --version
+pwd
+ls -lrtha
+ls
+vi .bashrc
+export JAVA_HOME="/usr/lib/jvm/java-11-openjdk-amd64"
+echo $JAVA_HOME
+echo $MAVEN_HOME
+export MAVEN_HOME=/usr/share/maven
+echo $MAVEN_HOME
+exit
+echo $MAVEN_HOME
+echo JAVA_HOME
+echo $JAVA_HOME
+exit
+vi .bashrc
+ll
+vi .bashrc
+source ~/.bashrc
+echo $JAVA_HOME
+echo $MAVEN_HOME
+source ~/.bashrc
+echo $MAVEN_HOME
+echo $M2_HOME
+echo PATH
+echo $PATH
+exit
+echo $MAVEN_HOME
+echo $JAVA_HOME
+vi .bashrc
+echo $JAVA_HOME
+vi .bashrc
+source ~/.bashrc
+echo $JAVA_HOME
+echo $MAVEN_HOME
